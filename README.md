@@ -1,2 +1,10 @@
-# HZ--WestManagment
-HZ Westmanagment Official Website - Waste Management Services, Garbage Collection, Environmental Solutions and Community Cleanliness Projects.
+# HZ West Management
+
+Official website for HZ West Management.
+
+Services:
+- Waste Management
+- Garbage Collection
+- Environmental Solutions
+
+Created by Zeeshan Haider.
